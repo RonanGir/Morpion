@@ -1,4 +1,4 @@
-package fr.eni.demoSwing.ihm;
+package fr.jeux.testSwing.ihm;
 
 import javax.swing.SwingUtilities;
 

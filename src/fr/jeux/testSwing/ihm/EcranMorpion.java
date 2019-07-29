@@ -1,4 +1,4 @@
-package fr.eni.demoSwing.ihm;
+package fr.jeux.testSwing.ihm;
 
 import java.awt.Color;
 import java.awt.Dimension;
